@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/rikhil-33/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rikhil-33/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rikhil-33/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rikhil-33/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rikhil-33/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/rikhil-33/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
