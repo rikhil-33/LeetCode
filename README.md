@@ -27,5 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rikhil-33/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rikhil-33/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rikhil-33/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rikhil-33/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
