@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rikhil-33/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rikhil-33/LeetCode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/rikhil-33/LeetCode/tree/master/0709-to-lower-case) |
 ## Geometry
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rikhil-33/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rikhil-33/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
