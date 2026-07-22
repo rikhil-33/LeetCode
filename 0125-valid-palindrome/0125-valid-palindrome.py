@@ -6,7 +6,4 @@ class Solution:
             if ch.isalnum():
                 new += ch
         
-        if new == new[::-1]:
-            return True
-        else:
-            return False        
+        return new == new[::-1]    
