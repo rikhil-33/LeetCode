@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rikhil-33/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rikhil-33/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rikhil-33/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/rikhil-33/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rikhil-33/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rikhil-33/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rikhil-33/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rikhil-33/LeetCode/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rikhil-33/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
